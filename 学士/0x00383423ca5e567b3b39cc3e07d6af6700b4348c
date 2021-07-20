@@ -1,0 +1,12 @@
+{
+ "name": "HappyDoge",
+ "website": "https//vgo.vip",
+ "description": " 
+HappyDoge Floki Shiba Inu is a yield-generating deflationary charitable cryptocurrency that runs on Binance Smart Chain. It rewards holders through reflections by taxing transactions. It charity is dedicated in dogs protection and creating dog shelter ",
+ "explorer": "https://bscscan.com/token/ 0x00383423ca5e567b3b39cc3e07d6af6700b4348c",
+ "type": "BEP20",
+ "symbol": " HappyDoge ",
+ "decimals": 9,
+ "status": "active",
+ "id": " 0x00383423ca5e567b3b39cc3e07d6af6700b4348c"
+}
